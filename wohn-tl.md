@@ -19,7 +19,7 @@ We have a Discord server where we post progress updates and talk about everythin
 [https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
 
 In addition, we also a Twitter account. We post more specific updates (i.e. terminology changes, work pacing changes) there. Give us a follow if you'd like to keep up.
-[https://twitter.com/HollowMoonTl](https://twitter.com/HollowMoonTl)
+[https://twitter.com/HollowMoonTL](https://twitter.com/HollowMoonTL)
 
 ### Download
 The latest release can be always be found in the original thread on the Beast's Lair forums. Currently, it includes Mcjon01's translation of chapters 1-7 (with magic terminology replaced for consistency) and our translation of Chapter 8-8.5.
