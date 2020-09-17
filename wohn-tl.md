@@ -12,9 +12,9 @@ This project aims to translate the entirety of Mahoutsukai no Yoru into English.
 Our approach first involves a rough draft translated from Moon-Trad's French script into English. That rough draft is then rigorously TLC'd by the proofreaders and editors to ensure that as much of the original JP intention (in both meaning and tone/prose) is conveyed, dampening the impact of issues inherent to direct double translation. This way, we can ease the load such a project would usually have on the JP staff, while still maintaining a high level of accuracy. 
 
 As Mcjon01's patch was very detailed in terms of technical work and CG translation, we are using those aspects of his patch as the basis for ours. We have not been able to get in touch with him, so we do not have official permission, but we are crediting him accordingly. If anyone involved in his translation effort has any objections, please reach out to us. We will make sure to remove and recreate any assets we use from his patch if needed.
-
-The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it <rb>might<rb><rt>will</rt>take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
-
+<ruby>
+The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it might<rp>(</rp><rt>will</rt><rp>)</rp><rp>)</rp>take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
+</ruby>
 We have a Discord server where we post progress updates and talk about everything Type-Moon (but not just limited to that). Join if you are interested.
 [https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
 
@@ -63,6 +63,7 @@ Link to the thread is here: [https://forums.nrvnqsr.com/showthread.php/8586](htt
 #### Editors
 * kohakudoori
 * Expert Criminal
+* Athayuna
 * Alvy  
 
 #### Japanese Proofreaders
@@ -81,13 +82,14 @@ Link to the thread is here: [https://forums.nrvnqsr.com/showthread.php/8586](htt
 
 #### Image Editors
 * vimiani
-* Phaanta  
+* Phaanta
+* Dobu
 
 #### Others
-* Mcjon01 (original 1-7 patch)
-* Waku Waku
-* Quibi (Engine-related assistance)
 * Moon-Trad (French translation)
+* Mcjon01 (original 1-7 patch TL)
+* Waku Waku (original 1-7 patch images)
+* Quibi (Engine-related assistance)
 
 ### Current Progress (Updated every other Saturday. Last updated 09-05-2020)
 ![progress](https://cdn.discordapp.com/attachments/622576039771504640/752000148137312367/Progress.png)
