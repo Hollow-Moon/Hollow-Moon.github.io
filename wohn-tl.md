@@ -9,11 +9,11 @@ title: Mahoutsukai no Yoru Translation Project
 
 This project aims to translate the entirety of Mahoutsukai no Yoru into English. We mostly started this because of all of us getting incredibly tired of all of the failed Mahoyo TL attempts that have spawned in the years since its release.
 
-Our approach first involves a rough draft script translated from Moon-Trad's French script into English. Said rough draft is then rigorously TLC'd by cross-checkers and editors to ensure that as much of the original JP intention (in both meaning and tone/prose) is conveyed, dampening the impact of issues inherent to direct double translation. This way, we can ease the load such a project would usually have on the JP staff, while still maintaining accuracy. 
+Our approach first involves a rough draft translated from Moon-Trad's French script into English. THat rough draft is then rigorously TLC'd by the proofreaders and editors to ensure that as much of the original JP intention (in both meaning and tone/prose) is conveyed, dampening the impact of issues inherent to direct double translation. This way, we can ease the load such a project would usually have on the JP staff, while still maintaining a high level of accuracy. 
 
 As Mcjon01's patch was very detailed in terms of technical work and CG translation, we are using those aspects of his patch as the basis for ours. We have not been able to get in touch with him, so we do not have official permission, but we are crediting him accordingly. If anyone involved in his translation effort has any objections, please reach out to us. We will make sure to remove and recreate any assets we use from his patch if needed.
 
-The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it <ruby><rb>might<rb><rt>will</rt></ruby> take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
+The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it <rb>might<rb><rt>will</rt>take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
 
 We have a Discord server where we post progress updates and talk about everything Type-Moon (but not just limited to that). Join if you are interested.
 [https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
@@ -29,20 +29,20 @@ Link to the thread is here: [https://forums.nrvnqsr.com/showthread.php/8586](htt
 ### Changelog
 #### 0.3 (2020-05-20)
 [\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page7?p=3064717#post3064717)
-* Chapter 8.5 translated
+* (NEW) Chapter 8.5 translated
 * Chapter 8 reedited for better flow + fixing TL errors
 
 #### 0.2 (2020-02-22)
 [\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page5?p=3045386#post3045386)
-* Chapter 8 extra story "Whiteboard" translated
-* All About Ploy! parts 1 and 2 translated
+* (NEW) Chapter 8 extra story "Whiteboard" translated
+* (NEW) All About Ploy! parts 1 and 2 translated
 * Miscellaneous issues in chapter 8 fixed
 
 #### 0.1 (2019-10-22)
 [\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page2?p=3021055#post3021055)
-* Chapter 8 translated
+* (NEW) Chapter 8 translated
 * Official 1.0.2 update bundled
-* Brand new title logo
+* New English title logo
 * Chapter title images retranslated
 * Some miscellaneous warning messages are now translated
 * Crashes in later chapters caused by text image macros fixed by downscaling
