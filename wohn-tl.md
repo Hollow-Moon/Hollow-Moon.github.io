@@ -18,7 +18,7 @@ The team is relatively large for the size of Mahoyo's script, but only a handful
 We have a Discord server where we post progress updates and talk about everything Type-Moon (but not just limited to that). Join if you are interested.
 [https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
 
-In addition, we also a Twitter account. We post more specific updates (i.e. terminology changes, work pacing changes) there. Give us a follow if you'd like to keep up.
+In addition, we also a Twitter account, where we post more specific updates (i.e. terminology changes, work pacing changes) there. Give us a follow if you'd like to keep up.
 [https://twitter.com/HollowMoonTL](https://twitter.com/HollowMoonTL)
 
 ### Download
@@ -45,9 +45,9 @@ Link to the thread is here: [https://forums.nrvnqsr.com/showthread.php/8586](htt
 * Brand new title logo
 * Chapter title images retranslated
 * Some miscellaneous warning messages are now translated
-* Bitmap glyph crashes in later chapters fixed by making alt. resolution versions
+* Crashes in later chapters caused by text image macros fixed by downscaling
 * Every instance of "sorcery" in chapters 1-7 changed to "magecraft"
-* You can now take focused window screenshots with the text
+* You can now take focused window screenshots with text
 * Font selection menu re-implemented
 
 ### Current Team
