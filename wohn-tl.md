@@ -13,7 +13,7 @@ Our approach first involves a rough draft translated from Moon-Trad's French scr
 
 As Mcjon01's patch was very detailed in terms of technical work and CG translation, we are using those aspects of his patch as the basis for ours. We have not been able to get in touch with him, so we do not have official permission, but we are crediting him accordingly. If anyone involved in his translation effort has any objections, please reach out to us. We will make sure to remove and recreate any assets we use from his patch if needed.
 
-The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it might<rp>(</rp><rt>will</rt><rp>)</rp> take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
+The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it <ruby>might<rp>(</rp><rt>will</rt><rp>)</rp></ruby> take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
 
 We have a Discord server where we post progress updates and talk about everything Type-Moon (but not just limited to that). Join if you are interested.
 [https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
