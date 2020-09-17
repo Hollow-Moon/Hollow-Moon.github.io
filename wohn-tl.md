@@ -23,7 +23,8 @@ In addition, we also a Twitter account. We post more specific updates (i.e. term
 
 ### Download
 The latest release can be always be found in the original thread on the Beast's Lair forums. Currently, it includes Mcjon01's translation of chapters 1-7 (with magic terminology replaced for consistency) and our translation of Chapter 8-8.5.
-Link here: [https://forums.nrvnqsr.com/showthread.php/8586](https://forums.nrvnqsr.com/showthread.php/8586)
+
+Link to the thread is here: [https://forums.nrvnqsr.com/showthread.php/8586](https://forums.nrvnqsr.com/showthread.php/8586)
 
 ### Changelog
 #### 0.3 (2020-05-20)
