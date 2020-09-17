@@ -9,7 +9,7 @@ title: Mahoutsukai no Yoru Translation Project
 
 This project aims to translate the entirety of Mahoutsukai no Yoru into English. We mostly started this because of all of us getting incredibly tired of all of the failed Mahoyo TL attempts that have spawned in the years since its release.
 
-Our approach first involves a rough draft translated from Moon-Trad's French script into English. THat rough draft is then rigorously TLC'd by the proofreaders and editors to ensure that as much of the original JP intention (in both meaning and tone/prose) is conveyed, dampening the impact of issues inherent to direct double translation. This way, we can ease the load such a project would usually have on the JP staff, while still maintaining a high level of accuracy. 
+Our approach first involves a rough draft translated from Moon-Trad's French script into English. That rough draft is then rigorously TLC'd by the proofreaders and editors to ensure that as much of the original JP intention (in both meaning and tone/prose) is conveyed, dampening the impact of issues inherent to direct double translation. This way, we can ease the load such a project would usually have on the JP staff, while still maintaining a high level of accuracy. 
 
 As Mcjon01's patch was very detailed in terms of technical work and CG translation, we are using those aspects of his patch as the basis for ours. We have not been able to get in touch with him, so we do not have official permission, but we are crediting him accordingly. If anyone involved in his translation effort has any objections, please reach out to us. We will make sure to remove and recreate any assets we use from his patch if needed.
 
