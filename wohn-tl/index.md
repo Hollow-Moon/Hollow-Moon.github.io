@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mahoutsukai no Yoru Translation Project
+permalink: /wohn-tl/
 ---
 
 ![mahoyo english logo](https://cdn.discordapp.com/attachments/491737125591580692/665809169793679380/mahoyo_english_logo.png){: .center-image }
