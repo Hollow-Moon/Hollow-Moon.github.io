@@ -23,9 +23,9 @@ In addition, we also a Twitter account, where we post more specific updates (i.e
 [https://twitter.com/HollowMoonTL](https://twitter.com/HollowMoonTL)
 
 ### Download
-The latest release can be always be found in the original thread on the Beast's Lair forums. Currently, it includes Mcjon01's translation of chapters 1-7 (with magic terminology replaced for consistency) and our translation of Chapter 8-8.5.
+The latest release can be always be found down below. Currently, it includes Mcjon01's translation of chapters 1-7 (with magic terminology replaced for consistency) and our translation of chapters 8-8.5.
 
-Link to the thread is here: [https://forums.nrvnqsr.com/showthread.php/8586](https://forums.nrvnqsr.com/showthread.php/8586)
+Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Zd2jt38rID3gJ3f/view)
 
 ### Changelog
 #### 0.3 (2020-05-20)
