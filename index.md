@@ -10,4 +10,4 @@ title: Hollow Moon
 {:toc}
 
 ### Projects
-* [Mahoutsukai no Yoru Translation Project](wohn-tl.html) 
+* [Mahoutsukai no Yoru Translation Project](wohn-tl/) 
