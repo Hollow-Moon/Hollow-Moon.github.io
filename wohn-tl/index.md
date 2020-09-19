@@ -92,5 +92,7 @@ Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Z
 * Waku Waku (original 1-7 patch images)
 * Quibi (Engine-related assistance)
 
-### Current Progress (Updated every other Saturday. Last updated 09-05-2020)
+### Current Progress
+Updated every other Saturday. Last updated 09-05-2020
+
 ![progress](https://cdn.discordapp.com/attachments/622576039771504640/752000148137312367/Progress.png)
