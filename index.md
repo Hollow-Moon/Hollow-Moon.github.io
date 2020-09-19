@@ -13,4 +13,4 @@ title: Hollow Moon
 ### Projects
 * [Mahoutsukai no Yoru Translation Project](wohn-tl/) 
 
-<!-- ![kohaku cute](./resources/koha_t19.png){: .transparent-image } -->
+![kohaku cute](./resources/koha_t19.png){: .transparent-image }
