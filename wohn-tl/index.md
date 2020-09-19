@@ -19,7 +19,7 @@ The team is relatively large for the size of Mahoyo's script, but only a handful
 We have a Discord server where we post progress updates and talk about everything Type-Moon (but not just limited to that). Join if you are interested.
 [https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
 
-In addition, we also a Twitter account, where we post more specific updates (i.e. terminology changes, work pacing changes). Give us a follow if you'd like to keep up.
+In addition, we also have a Twitter account, where we post more specific updates (i.e. terminology changes, work pacing changes). Give us a follow if you'd like to keep up.
 [https://twitter.com/HollowMoonTL](https://twitter.com/HollowMoonTL)
 
 ### Download
