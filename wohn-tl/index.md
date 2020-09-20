@@ -93,7 +93,7 @@ Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Z
 * Quibi (Engine-related assistance)
 
 ### Current Progress
-Updated every other Saturday. Last updated 09-05-2020
+Updated every other Saturday. Last updated 09-19-2020
 
 | Chapter  | TL / Edit / JP %         | Pages   | TL'd   | Edited | JPcheck |
 | -------- |:------------------------:| -------:| ------:| ------:| -------:|
