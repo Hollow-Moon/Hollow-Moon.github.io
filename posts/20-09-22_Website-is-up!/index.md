@@ -1,4 +1,3 @@
-#  Test
-<div align="right">This is the main web page of the website of Hollow Moon.</div>
+#  Test <div align="right">September 22nd, 2020</div>
 
 The website is now up and running!
