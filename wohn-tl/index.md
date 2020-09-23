@@ -16,12 +16,6 @@ As Mcjon01's patch was very detailed in terms of technical work and CG translati
 
 The team is relatively large for the size of Mahoyo's script, but only a handful of us have experience in organized translation efforts, so it <ruby>might<rp>(</rp><rt>will</rt><rp>)</rp></ruby> take a while. As much as we'd like to have it all out now, we don't want to rush this either. Our goal is to provide the highest quality release we are capable of providing. Silent as we may seem, however, the project is constantly being worked on, as the frequent progress updates will show.
 
-We have a Discord server where we post progress updates and talk about everything Type-Moon (but not just limited to that). Join if you are interested.
-[https://discord.gg/2ngdyQd](https://discord.gg/2ngdyQd)
-
-In addition, we also have a Twitter account, where we post more specific updates (i.e. terminology changes, work pacing changes). Give us a follow if you'd like to keep up.
-[https://twitter.com/HollowMoonTL](https://twitter.com/HollowMoonTL)
-
 ### Download
 The latest release can be always be found down below. Currently, it includes Mcjon01's translation of chapters 1-7 (with magic terminology replaced for consistency) and our translation of chapters 8-8.5.
 
