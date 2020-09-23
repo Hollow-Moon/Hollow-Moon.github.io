@@ -8,4 +8,4 @@ title: Hollow Moon
 
 The website is now up and running!
 
-![tv](./resources/tv.png){: .center-image }{: style="max-width: 100%"}
+![tv](https://cdn.discordapp.com/attachments/629731244904546324/758138740152860702/tv.png){: .center-image }
