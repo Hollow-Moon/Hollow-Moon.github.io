@@ -8,4 +8,4 @@ title: Hollow Moon
 
 The website is now up and running!
 
-![tv](./posts/20-09-22_Website-is-up!/tv.png){: .center-image }{: style="max-width: 100%"}
+![tv](./resources/tv.png){: .center-image }{: style="max-width: 100%"}
