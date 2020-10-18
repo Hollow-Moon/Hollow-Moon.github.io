@@ -71,7 +71,6 @@ Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Z
 * YusaoTeitoku  
 
 #### Programmers
-* uyjulian
 * vimiani
 * hakase
 
