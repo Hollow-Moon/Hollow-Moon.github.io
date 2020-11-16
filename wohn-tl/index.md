@@ -53,7 +53,6 @@ Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Z
 * 4digitmen
 * Layemou
 * Nico-Alter
-* Nicole
 
 #### Editors
 * kohakudoori
