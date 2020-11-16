@@ -49,9 +49,9 @@ Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Z
 
 #### French Translators
 * Raymoo
+* Nicolate
 * 4digitmen
 * Layemou
-* Shiki
 * Nico-Alter
 * Nicole
 
