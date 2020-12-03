@@ -78,5 +78,3 @@ This is a intended part of the game.
 
 # Other support pages
 If the above does not help with your issue, you can ask in the [Beast's Lair forum thread](https://forums.nrvnqsr.com/showthread.php/8586) or the [Discord server](https://discord.gg/2ngdyQd).
-
-[Return to previous page](javascript:history.go%28-1%29)  
