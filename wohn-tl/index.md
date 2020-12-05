@@ -112,3 +112,7 @@ Updated every other Saturday. Last updated 11-28-2020
 | Extra 1  | 100% / 99.99% / 2.01%    | 248     | 248    | 248    | 5       |
 | Extra 2  | 39.23% / 0% / 0%         | 836     | 328    | 0      | 0       | 
 | TOTAL    | 81.62% / 44.75% / 56.99% | 7231    | 5902   | 3236   | 4133    |
+
+### Subpages
+* [Frequently asked questions](faq/)  
+* [Support page](support/)  
