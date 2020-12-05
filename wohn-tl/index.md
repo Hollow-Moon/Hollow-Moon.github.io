@@ -19,22 +19,22 @@ The team is relatively large for the size of Mahoyo's script, but only a handful
 ### Download
 The latest release can be always be found down below. Currently, it includes Mcjon01's translation of chapters 1-7 (with magic terminology replaced for consistency) and our translation of chapters 8-8.5.
 
-Link is here: [Google Drive](https://drive.google.com/file/d/1MACYFN9tUWD6Pxpw4Zd2jt38rID3gJ3f/view)
+The latest patch can be downloaded [here](https://github.com/Hollow-Moon/mahoyo-english/releases/download/v0.3/MahoyoEnPatchCh1-8_v3.zip).
 
 ### Changelog
 #### 0.3 (2020-05-20)
-[\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page7?p=3064717#post3064717)
+[\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page7?p=3064717#post3064717) [\(Download\)](https://github.com/Hollow-Moon/mahoyo-english/releases/download/v0.3/MahoyoEnPatchCh1-8_v3.zip)  
 * (NEW) Chapter 8.5 translated
 * Chapter 8 reedited for better flow + fixing TL errors
 
 #### 0.2 (2020-02-22)
-[\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page5?p=3045386#post3045386)
+[\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page5?p=3045386#post3045386) [\(Download\)](https://github.com/Hollow-Moon/mahoyo-english/releases/download/v0.2/MahoyoEnPatchCh1-8_v2.zip)  
 * (NEW) Chapter 8 extra story "Whiteboard" translated
 * (NEW) All About Ploy! parts 1 and 2 translated
 * Miscellaneous issues in chapter 8 fixed
 
 #### 0.1 (2019-10-22)
-[\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page2?p=3021055#post3021055)
+[\(Release Post\)](https://forums.nrvnqsr.com/showthread.php/8586/page2?p=3021055#post3021055) [\(Download\)](https://github.com/Hollow-Moon/mahoyo-english/releases/download/v0.1/MahoyoEnPatchCh1-8.zip)  
 * (NEW) Chapter 8 translated
 * Official 1.0.2 update bundled
 * New English title logo
