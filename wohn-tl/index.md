@@ -4,7 +4,7 @@ title: Mahoutsukai no Yoru Translation Project
 permalink: /wohn-tl/
 ---
 
-![mahoyo english logo](./resources/Main_Title_B.svg){: .center-image }
+![mahoyo english logo](../resources/Main_Title_B.svg){: .center-image }
 
 <div class="youtube-video-embed-wrapper"><iframe class="youtube-video-embed-content" src="https://www.youtube.com/embed/Uf-9w9O5B7o" frameborder="0" allowfullscreen></iframe></div>
 
