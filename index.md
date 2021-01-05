@@ -3,7 +3,7 @@ layout: default
 title: Hollow Moon
 ---
 
-![hollow moon logo](./resources/hma_main_logo.svg){: .center-image }{: style="max-width: 50%"}
+![hollow moon logo](./resources/hma_main_logo_cropped.svg){: .center-image }{: style="max-width: 50%"}
 
 ### Projects
 * [Mahoutsukai no Yoru Translation Project](wohn-tl/) 
