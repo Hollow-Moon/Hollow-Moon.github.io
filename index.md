@@ -9,7 +9,8 @@ title: Hollow Moon
 * [Mahoutsukai no Yoru Translation Project](wohn-tl/) 
 
 ### Posts
-* [Website is up!](posts/20-09-22_Website-is-up!) 
+* [Update](posts/21-01-10_Addressing-FAQ) (21/01/10)
+* [Website is up!](posts/20-09-22_Website-is-up!) (20/09/22)
 
 
 ### Links
