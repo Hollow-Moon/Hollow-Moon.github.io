@@ -1,0 +1,36 @@
+---
+layout: default
+title: Hollow Moon
+---
+
+### Update & addressing some FAQ
+<div align="right"><p style="font-size:12px">January 10th, 2021</p></div>
+
+Hello everyone! We hope that you've all had a good new year so far. We're here to kick off the year with some updates, or clarifications rather, for all of you. None of the things in this post are really new, but they're things we feel haven't been made perfectly clear yet and so we've decided to collect them in this post to properly address them publically.
+
+#### Regarding future partial releases (Ch. 9 + 10)
+
+As we approach the late stages of this project, some of you may be wondering whatever happened to us releasing Chapters 9 and 10 ahead of the full patch, once they finished. Unfortunately, this is our official explanation to you that this will not be happening. Said comment was hastily made during a time when we were still undergoing major changes in terms of workflow (more on this below), and we have since decided that, for the sake of quality and consistency, we will not be doing any additional partial releases. In other words, the next release from us will be the full patch for the entire game at once.
+
+We understand your disappointment and apologize for any confusion.
+
+#### Regarding our workflow, or: why we don't consider this a double translation anymore
+
+As you may or may not know, this translation project originally started out as a French to English translation of the game, based on Moon-Trad's French script. At this point, Japanse translators who were able to cross-check the French translation with the original Japanese script were more of a scarcity, and as such the project fell into the category of your standard double translation. Eventually, however, applications by multiple Japanese translators/proofreaders came in, and as more of them joined the project, there was a big shift in how the translation was being approached and worked on. The basic workflow now instead consisted of a French to English translation, then proofreading the English script by comparing it to the Japanese directly, to finally be edited.
+
+Before we get into more detail about this process, there are recurring questions (partly the cause for this very post) about why we, at the point when JP translators joined the project, didn't just switch to a complete JP-EN translation and started mostly from scratch? The answer to this is twofold, and we will get into this more below, but in short it comes down to: 
+
+1) Most of the FR-EN translation was already done by this point, and
+2) The FR-EN translation tends to alleviate translation bumps and speed up editing.
+
+At this point in time, our general workflow consists of multiple parts, which include: remaining FR-EN translations, JP translation check (TLC), and editing. What the FR-EN translation entails should be self-explanatory, and likewise the editing phase serves an obvious purpose - to tighten up grammar and flow in the English text. But what does the JP TLC actually do then? During this phase, a JP translator/proofreader will go over both the EN and JP scripts at the same time. We want to emphasize that at this point, the French script has no more bearing on anything else. Each script is compared, line by line, to the Japanese to make sure that the translation is correct. Many people seem to underestimate what goes into this process (or even whether it happens at all), so we want to point out that this process doesn't only involve finding mistranslations or the like. Rather, in addition to that, it involves making sure that word choices are as close as possible to the original Japanese text, that the tone of the line is the same in both languages, and even making sure that the metre/flow of the lines feels the same in English as it does in Japanese. In other words, practically every line undergoes pretty major alterations as it passes through TLC.
+
+The reason this works in a well-paced fashion is a sort of application of Cunningham's law, which states that "the best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer." That is to say, in this application, that it doesn't matter if the FR-EN script has some issues, because just having the sentence structure and some wording there already makes it much faster to simply "correct." Of course, this isn't true all the time or in all cases, as there are definitely times when having the overhead of the current text in mind can kill the flow, but we still see that the end result is definitely better.
+
+This is an effect that also carries over into the workload of the editing of the final English script. Most fan translations of Type-Moon works tend to suffer in their writing because Nasu really does have a peculiar way of writing, and while we have great respect for the groups that came before us, it's safe to say that a lot of translations can come off as stiff or stilted. There is simply a requirement of a lot of good editing that goes into these translations. As the TLC goes over the FR-EN scripts, the JP translators are able to dedicate effort to not only ensure consistency with the JP text, but to also put themselves in the position of an editor and pay more attention to the line from that perspective. This is only really possible because there is already a "basis" which in first hand needs to be fixed, rather than produced from nothing. If this initial basis weren't to exist, then it is more likely the JP translators would have to translate a line, only to have it sit for a while before they were able to go back and look at it with fresh eyes, effectively achieving the same thing as explained here. While this isn't necessarily a worse process, it's safe to say that it is a slower one, and as such we believe that using the FR-EN script as a basis for this kind of workflow greatly speeds up our work.
+
+As for the rest of the work done throughout the project, once all scripts in the game have undergone this kind of extensive TLC work, as well as editing, there will be a final pass done over all files by a single person for TLC and editing respectively, in order to snuff out any mistakes and to ensure consistent writing and voice. 
+
+In the end, we want to make it clear that we are in no way endorsing double translations as some great new standard, but we do believe that working like this with the FR-EN as a starting point allows for a host of advantages, especially in the context of this project, that we would otherwise not have. That said, other than carrying over this sort of workflow where we are able to distribute the initial, heaviest workload among team members, to then have a smaller group or a single person ensure consistency, future projects from us will not be a result of this kind of process which originally bases itself in another language. This has been a result of all the circumstances that led to this project existing in the first place and now being what it is, and we have done everything possible to us to make sure that it meets the quality of a JP to EN translation.
+
+Lastly, we want to thank you all for your patience during this time, and hope that you will keep looking forward to the eventual release of Mahoyo in English!
