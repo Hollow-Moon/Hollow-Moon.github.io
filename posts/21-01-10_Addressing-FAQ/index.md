@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hollow Moon
+title: Update & addressing some FAQ
 ---
 
 ### Update & addressing some FAQ

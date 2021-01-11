@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hollow Moon
+title: Website is up!
 ---
 
 ### Website is up!
