@@ -86,8 +86,7 @@ The latest patch can be downloaded [here](https://github.com/Hollow-Moon/mahoyo-
 * Quibi (Engine-related assistance)
 
 ### Current Progress
-Updated every other Saturday. Last updated 2021-02-20
-
+Updated every other Saturday. Last updated 2021-03-06
 | Chapter  | FR-TL / JP-TLC / Edit %  | Pages   | FR-TL  | JP-TLC | Edited |
 | -------- |:------------------------:| -------:| ------:| ------:| ------:|
 | 1        | 100% / 100% / 100%       | 334     | 334    | 334    | 334    |
