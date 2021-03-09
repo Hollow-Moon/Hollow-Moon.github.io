@@ -55,8 +55,12 @@ Please [follow the steps](https://support.microsoft.com/en-us/help/2641432/check
 Since the game uses all the cores in the CPU by default, it may be possible to overheat the CPU if the cooling is not sufficient.  
 In that case, please open the engine settings and set "Graphics->Graphics rendering thread count" to "1 thread".  
 
+### How can I quickly locate the save data folder
+To quickly open a File Browser window to that folder, press Win+R, type in `%userprofile%\Documents\TYPE-MOON\魔法使いの夜`, then press enter on your keyboard.  
+Please note that the above command does not work if your system administrator has Folder Redirection enabled on your system. In that case, open the "Documents" folder in "File Explorer" and locate the `TYPE-MOON` folder.  
+
 ### I would like to continue the game using another computer
-The `TYPE-MOON¥魔法使いの夜` folder in the "My Documents" folder can be transferred to another computer.
+The `TYPE-MOON\魔法使いの夜` folder in the "My Documents" folder can be transferred to another computer.  
 
 ### When the game is full-screen, the screen is letterboxed
 The game was designed with a resolution of 1024x576, so there will be empty spaces at the edge of the screen if your screen's resolution differs.
