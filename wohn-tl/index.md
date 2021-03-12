@@ -6,7 +6,7 @@ permalink: /wohn-tl/
 
 ![mahoyo english logo](../resources/Main_Title_B.svg){: .center-image }
 
-<div class="youtube-video-embed-wrapper"><iframe class="youtube-video-embed-content" src="https://www.youtube.com/watch?v=cvXA6mh9Y5I" frameborder="0" allowfullscreen></iframe></div>
+<div class="youtube-video-embed-wrapper"><iframe class="youtube-video-embed-content" src="https://www.youtube.com/embed/cvXA6mh9Y5I" frameborder="0" allowfullscreen></iframe></div>
 
 This project aims to translate the entirety of Mahoutsukai no Yoru into English. We mostly started this because of all of us getting incredibly tired of all of the failed Mahoyo TL attempts that have spawned in the years since its release.
 
