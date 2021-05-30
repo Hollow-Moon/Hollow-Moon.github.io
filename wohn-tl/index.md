@@ -86,7 +86,7 @@ The latest patch can be downloaded [here](https://github.com/Hollow-Moon/mahoyo-
 * Quibi (Engine-related assistance)
 
 ### Current Progress
-Updated every other Saturday (mostly). Last updated 2021-05-15
+Updated every other Saturday (mostly). Last updated 2021-05-29
 
 | Chapter  | FR-TL / JP-TLC / Edit %  | Pages   | FR-TL  | JP-TLC | Edited |
 | -------- |:------------------------:| -------:| ------:| ------:| ------:|
@@ -95,10 +95,10 @@ Updated every other Saturday (mostly). Last updated 2021-05-15
 | 2        | 100% / 100% / 100%       | 247     | 247    | 247    | 247    |
 | 3        | 100% / 100% / 100%       | 45      | 45     | 45     | 45     |
 | 4        | 100% / 100% / 100%       | 225     | 225    | 225    | 225    |
-| 5-I      | 100% / 100% / **26.86%**     | 428     | 428    | 428    | **115**    |
+| 5-I      | 100% / 100% / **36.68%**     | 428     | 428    | 428    | **157**    |
 | 5-II     | 100% / 83.27% / 0%       | 538     | 538    | 448    | 0      |
 | 6        | 57.75% / 31.81% / 0%     | 374     | 216    | 119    | 0      |
-| 7        | 100% / **14.15%** / 0%       | 438     | 438    | **62**     | 0      |
+| 7        | 100% / **18.26%** / 0%       | 438     | 438    | **80**     | 0      |
 | 7 Extra  | 100% / 0% / 0%           | 128     | 128    | 0      | 0      |
 | 8        | 100% / 100% / 100%       | 287     | 287    | 287    | 287    |
 | 8 Extra  | 100% / 100% / 100%       | 151     | 151    | 151    | 151    |
@@ -111,7 +111,7 @@ Updated every other Saturday (mostly). Last updated 2021-05-15
 | nz       | 100% / 100% / 0%         | 361     | 361    | 361    | 0      |
 | Extra 1  | 100% / 2.01% / 100%      | 248     | 248    | 5      | 248    |
 | Extra 2  | 100% / 0% / 0%           | 836     | 836    | 0      | 0      | 
-| TOTAL    | 97.81% / 73.33% / 58.67% | 7231    | 7073   | 5303   | 4243   |
+| TOTAL    | 97.81% / 73.58% / 59.25% | 7231    | 7073   | 5321   | 4285   |
 
 ### Subpages
 * [Frequently asked questions](faq/)  
