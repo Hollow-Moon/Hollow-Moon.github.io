@@ -88,6 +88,7 @@ The latest patch can be downloaded [here](https://github.com/Hollow-Moon/mahoyo-
 ### Current Progress
 Updated every other Saturday (mostly). Last updated 2021-06-27
 
+| Chapter  | FR-TL / JP-TLC / Edit %  | Pages   | FR-TL  | JP-TLC | Edited |
 | -------- |:------------------------:| -------:| ------:| ------:| ------:|
 | 1        | 100% / 100% / 100%       | 334     | 334    | 334    | 334    |
 | 1.5      | 100% / 100% / 100%       | 306     | 306    | 306    | 306    |
