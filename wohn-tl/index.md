@@ -86,7 +86,7 @@ The latest patch can be downloaded [here](https://github.com/Hollow-Moon/mahoyo-
 * Quibi (Engine-related assistance)
 
 ### Current Progress
-Updated every other Saturday (mostly). Last updated 2021-06-27
+Updated every other Sunday (mostly). Last updated 2021-07-11
 
 | Chapter  | FR-TL / JP-TLC / Edit %  | Pages   | FR-TL  | JP-TLC | Edited |
 | -------- |:------------------------:| -------:| ------:| ------:| ------:|
@@ -95,10 +95,10 @@ Updated every other Saturday (mostly). Last updated 2021-06-27
 | 2        | 100% / 100% / 100%       | 247     | 247    | 247    | 247    |
 | 3        | 100% / 100% / 100%       | 45      | 45     | 45     | 45     |
 | 4        | 100% / 100% / 100%       | 225     | 225    | 225    | 225    |
-| 5-I      | 100% / 100% / 50.23%     | 428     | 428    | 428    | 215    |
-| 5-II     | 100% / **100%** / 0%       | 538     | 538    | **538**    | 0      |
+| 5-I      | 100% / 100% / **57.47%**     | 428     | 428    | 428    | **246**    |
+| 5-II     | 100% / 100% / 0%         | 538     | 538    | 538    | 0      |
 | 6        | 57.75% / 31.81% / 0%     | 374     | 216    | 119    | 0      |
-| 7        | 100% / 30.59% / 0%       | 438     | 438    | 134    | 0      |
+| 7        | 100% / **51.14%** / 0%       | 438     | 438    | **224**    | 0      |
 | 7 Extra  | 100% / 0% / 0%           | 128     | 128    | 0      | 0      |
 | 8        | 100% / 100% / 100%       | 287     | 287    | 287    | 287    |
 | 8 Extra  | 100% / 100% / 100%       | 151     | 151    | 151    | 151    |
@@ -111,7 +111,7 @@ Updated every other Saturday (mostly). Last updated 2021-06-27
 | nz       | 100% / 100% / 0%         | 361     | 361    | 361    | 0      |
 | Extra 1  | 100% / 2.01% / 100%      | 248     | 248    | 5      | 248    |
 | Extra 2  | 100% / 0% / 0%           | 836     | 836    | 0      | 0      | 
-| TOTAL    | 97.81% / 75.57% / 60.06% | 7231    | 7073   | 5465   | 4343   |
+| TOTAL    | 97.81% / 76.82% / 60.48% | 7231    | 7073   | 5555   | 4374   |
 
 ### Subpages
 * [Frequently asked questions](faq/)  
